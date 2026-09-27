@@ -10,7 +10,7 @@ public class Sum10 {
         int sum = 0;
         int i = 1;
 
-        while (i<=1) {
+        while (i<=10) {
             sum +=i; // sum = sum + i;
             i++;
         }
